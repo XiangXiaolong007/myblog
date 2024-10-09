@@ -1,7 +1,7 @@
 ---
 title: about
-date: 2019-10-09 15:25:16
+date: 2024-10-09 15:25:09
 ---
-***[欢迎访问龙哥哥的csdn地址](https://blog.csdn.net/longgege001)***
 
-***[欢迎访问龙哥哥的github地址](https://github.com/XiangXiaolong007)***
+## 个人介绍
+* #### 2021-06 ～ 至今 就职上海圆擎信息科技有限公司

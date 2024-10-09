@@ -1,0 +1,19 @@
+- class_name: 友情链接
+  class_desc: Hexo官网
+  link_list:
+    - name: Hexo
+      link: https://hexo.io/zh-tw/
+      avatar: https://d33wubrfki0l68.cloudfront.net/6657ba50e702d84afb32fe846bed54fba1a77add/827ae/logo.svg
+      descr: 快速、简单且强大的网站框架
+
+- class_name: 我的
+  class_desc: 个人地址
+  link_list:
+    - name: CSDN
+      link: https://blog.csdn.net/longgege001?type=blog
+      avatar: https://avatars.githubusercontent.com/u/28032470?v=4
+      descr: 我的csdn地址
+    - name: GitHub
+      link: https://github.com/XiangXiaolong007
+      avatar: https://avatars.githubusercontent.com/u/28032470?v=4
+      descr: 我的github地址
